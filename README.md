@@ -1,9 +1,6 @@
   Programming Languages: C++, Java, Python (Learning Data Structures and Algorithms in these languages. Additionally, I am also learning automation in Python)
-  
-  Databases            : SQL, (Learning Mongoose atm)
-  
+  Databases            : mySQL, PostGreSQL, (Learning MongoDB & Mongoose atm)
   Web Technologies     : HTML/CSS/JS, Bootstrap (Learning React.js)
-  
   Other Technologies   : UE5, (Learning Linux)
 
 <!---
