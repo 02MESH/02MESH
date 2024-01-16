@@ -19,8 +19,9 @@
 <!-- Shields format: ![UWebsite](https://img.shields.io/badge/User-Black-red?style=flat-square&logoColor=white&labelColor=red) -->
 
 ### Currently Learning/Working on
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="images/kubernetes.png" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="images/azure.png" /> <br/>
+<!--<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="images/azure.png" /> <br/>-->
 
 ### 🧰 Languages & Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -37,7 +38,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="images/bootstrap.png" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
 <br>
 <br>
 
