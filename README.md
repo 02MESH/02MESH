@@ -20,7 +20,7 @@
 
 ### Currently Learning/Working on
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="images/kubernetes.png" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="images/kubernetes.png" /> <br/>
 <!--<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="images/azure.png" /> <br/>-->
 
 ### 🧰 Languages & Tools
