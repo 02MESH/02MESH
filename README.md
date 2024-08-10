@@ -9,8 +9,8 @@
   <a href = "https://meshwildias.site">
     <img style="padding-right: 10px;" src="https://img.shields.io/badge/-My_Website-grey?style=for-the-badge&logoColor=white&logo=Ello" alt="Personal Website">
   </a>
-  <a href = "mailto:02MESH@duck.com">
-    <img src="https://img.shields.io/badge/-02MESH@duck.com-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Email">
+  <a href = "mailto:hello@meshwildias.com">
+    <img src="https://img.shields.io/badge/-hello@meshwildias.com-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Email">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/-02mesh-5865F2?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord">
