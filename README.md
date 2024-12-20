@@ -50,6 +50,5 @@
 <div align="center" style="background-color: black">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02MESH&layout=donut&theme=catppuccin_mocha&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=02MESH&show_icons=true&theme=catppuccin_mocha&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=02MESH&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
-  <!-- <img src="https://streak-stats.demolab.com?user=02MESH&theme=yellowdark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=820"> -->
+  <img src="https://streak-stats.demolab.com?user=02MESH&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
 </div>
