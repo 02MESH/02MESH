@@ -48,8 +48,8 @@
 ### 📊 My GitHub Statistics
 
 <div align="center" style="background-color: black">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02MESH&layout=donut&theme=highcontrast&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=02MESH&show_icons=true&theme=highcontrast&hide_border=true">
-  ![02MESH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=02MESH&show_icons=true&theme=catppucin_mocha)
-  <img src="https://streak-stats.demolab.com?user=02MESH&theme=yellowdark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=820">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02MESH&layout=donut&theme=catppuccin-mocha&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=02MESH&show_icons=true&theme=catppuccin-mocha&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=02MESH&theme=catppuccin-mocha&hide_bordrer=true" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=02MESH&theme=yellowdark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=820"> -->
 </div>
