@@ -5,6 +5,7 @@
 </div>
 
 ### 👤 Connect with me
+
 <div align="center">
   <a href = "https://meshwildias.site">
     <img style="padding-right: 10px;" src="https://img.shields.io/badge/-My_Website-grey?style=for-the-badge&logoColor=white&logo=Ello" alt="Personal Website">
@@ -19,11 +20,13 @@
 <!-- Shields format: ![UWebsite](https://img.shields.io/badge/User-Black-red?style=flat-square&logoColor=white&labelColor=red) -->
 
 ### Currently Learning/Working on
+
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="images/kubernetes.png" /> <br/>
 <!--<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="images/azure.png" /> <br/>-->
 
 ### 🧰 Languages & Tools
+
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -43,8 +46,10 @@
 <br>
 
 ### 📊 My GitHub Statistics
+
 <div align="center" style="background-color: black">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02MESH&layout=donut&theme=highcontrast&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api?username=02MESH&show_icons=true&theme=highcontrast&hide_border=true">
+  ![02MESH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=02MESH&show_icons=true&theme=catppucin_mocha)
   <img src="https://streak-stats.demolab.com?user=02MESH&theme=yellowdark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=820">
 </div>
